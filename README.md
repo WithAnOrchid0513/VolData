@@ -5,3 +5,4 @@ Volatility forecasting in the financial market plays a pivotal role across a spe
 
 Keywords: volatility forecasting, risk management, deep learning, time series analysis, GARCH, LSTM, Transformer
 
+<img width="514" alt="image" src="https://github.com/WithAnOrchid0513/VolData/assets/108759014/4dd2c327-b5ac-434d-8820-a9ba29cdb4a4">
